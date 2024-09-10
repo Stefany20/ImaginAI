@@ -11,13 +11,13 @@ Interfaz amigable: Navegación sencilla y accesible para todos los usuarios, ind
 Variedad de Estilos Artísticos: Elige entre múltiples estilos para personalizar tus creaciones.
 
 Control Personalizado: Ajusta parámetros clave para perfeccionar el resultado final.
+
 Resultados en Tiempo Real: Obtén vistas previas y resultados de tus creaciones en pocos segundos.
+
+
 🛠️ Tecnologías Utilizadas
 Frontend: HTML5, CSS3, JavaScript ES6+
-Backend: (Indica si utilizas un servidor o API)
-Modelos de IA: (Especifica los modelos o APIs que utilizas, como DALL·E, Stable Diffusion, etc.)
-Frameworks: (Si usas algún framework como React, Vue, etc.)
-Herramientas: (Indica otras herramientas como Webpack, Babel, etc.)
+
 📦 Instalación
 Requisitos
 Navegador web moderno (Google Chrome, Firefox, Safari, etc.)
@@ -27,7 +27,7 @@ Clona este repositorio:
 
 bash
 Copiar código
-git clone https://github.com/tuUsuario/imaginAI.git
+git clone https://github.com/Stefany20/imaginAI.git
 Navega al directorio del proyecto:
 
 bash
