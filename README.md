@@ -25,12 +25,11 @@ Conexión a internet estable
 Pasos de Instalación
 Clona este repositorio:
 
-bash
+
 Copiar código
 git clone https://github.com/Stefany20/imaginAI.git
-Navega al directorio del proyecto:
 
-bash
+Navega al directorio del proyecto:
 Copiar código
 cd imaginAI
 Abre el archivo index.html en tu navegador o despliega el proyecto en un servidor local.
