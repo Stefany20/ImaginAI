@@ -16,16 +16,6 @@ Este proyecto fue mi campo de juego para aprender y aplicar tecnologías moderna
 * **APIs:** Integración con OpenAI para generación de imágenes
 * **Control de versiones:** Git y GitHub
 
-## 🚀 Instalación y Uso
+## Desarrollado con 💜 y mucho café por Stefany
 
-```bash
-# Clona el repositorio
-git clone https://github.com/Stefany20/imaginAI.git
 
-# Navega al directorio
-cd imaginAI
-
-# Abre en tu navegador
-# Puedes abrir index.html directamente o usar un servidor local
-```bash
-## hola
