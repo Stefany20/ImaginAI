@@ -12,7 +12,7 @@ Como usuario, puedes:
 
 Este proyecto fue mi campo de juego para aprender y aplicar tecnologías modernas de desarrollo web:
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Frontend:** HTML5, CSS3
 * **APIs:** Integración con OpenAI para generación de imágenes
 * **Control de versiones:** Git y GitHub
 
