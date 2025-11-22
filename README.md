@@ -27,5 +27,5 @@ cd imaginAI
 
 # Abre en tu navegador
 # Puedes abrir index.html directamente o usar un servidor local
-
-# Desarrollado con 💜 y mucho café por Stefany
+```bash
+## hola
